@@ -1,0 +1,5 @@
+README.rdoc
+Rakefile
+lib/rangify.rb
+spec/rangify_spec.rb
+Manifest
